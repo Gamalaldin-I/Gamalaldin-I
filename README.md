@@ -57,10 +57,10 @@
 
 <!-- Contact Info -->
 <div align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:htbtjmal2013@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-blank?style=for-the-badge&logo=Gmail&logoColor=%23003f5c&labelColor=white&color=%23476f95"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="linkedin.com/in/gamal-hataba-84a296240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Gamalaldin-I" target="_blank">
