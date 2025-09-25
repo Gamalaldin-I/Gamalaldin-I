@@ -4,7 +4,7 @@
 </div>
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=64FFDA&background=00000000&lines=⚡+Building+Mobile+Experiences;🛸+Bring+creative+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=3776AB&background=00000000&lines=⚡+Building+Mobile+Experiences;🛸+Bring+creative+solutions" />
 </div>
 
 
