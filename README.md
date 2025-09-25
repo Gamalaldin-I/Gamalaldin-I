@@ -1,13 +1,12 @@
-<!-- Header Animation -->
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=300&section=header&text=Hello%20World%20👋&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<!-- Space Header with Stars Animation -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e17,30:1a1625,70:2d1b69,100:11213a&height=200&section=header&text=Gamalaldin%20Ibrahim&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Mobile%20App%20Developer%20🚀&descAlignY=55&descSize=18"/>
+</div>
+<!-- Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=64FFDA&background=00000000&lines=⚡+Building+Mobile+Experiences;🛸+Bring+creative+solutions" />
+</div>
 
-</p>
-
-<!-- Typing Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&color=2D9CDB&background=FFFFFF00&lines=I'm+Gamalaldin+Ibrahim;Mobile+App+Developer;" />
-</h1>
 
 <!-- Trophies -->
 <h2 align="center">🏆 Trophies</h2>
@@ -38,8 +37,11 @@
   <img src="https://img.shields.io/badge/Android-blank?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84&color=3DDC84"/>
   <img src="https://img.shields.io/badge/Python-blank?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB"/>
   <img src="https://img.shields.io/badge/C++-blank?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=00599C"/>
+   <img src="https://img.shields.io/badge/VS code-blank?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=00599C&color=00d4ff"/>
   <img src="https://img.shields.io/badge/Git-blank?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=F05032"/>
   <img src="https://img.shields.io/badge/Figma-blank?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E"/>
+  <img src="https://img.shields.io/badge/Postman-blank?style=for-the-badge&logo=postman&logoColor=white&labelColor=F24E1E&color=FF6C37"/>
+
 </p>
 
 <!-- Stats -->
