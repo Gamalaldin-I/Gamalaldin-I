@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Building+Next-Gen+Mobile+Solutions;2%2B+Years+Android+%26+Flutter+Experience;Specialized+in+Clean+Architecture;Passionate+About+User+Experience" alt="Typing SVG" />
 </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gamalaldin-i.github.io/G-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gamal-hataba-84a296240)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htbtjmal2013@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201234567890)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201117559874)
 
 <img src="https://komarev.com/ghpvc/?username=Gamalaldin-I&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
 
